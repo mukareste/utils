@@ -1,11 +1,10 @@
-utils
-=====
-
 Pentest Utils
+=====
 
 A repository of some custom scripts used for penetration testing and incident response by MTR Design (http://mtr-design.com) testers.
 
 Contents:
+=====
 
 ./README.md - This file<br>
 ./pentest/enumerate_wp_users.py - Enumerates WordPress users using the author tag<br>
