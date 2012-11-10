@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Shell Finder for Cpanel v0.9 / 2011 by mitchell <mitchell@csc.bg>.
+Shell Finder 0.9 for Cpanel (c) 2011 by mitchell <mitchell@csc.bg>.
 Developed by Cyber Security Consulting for Solid Hosting (http://solid-hosting.net)
 """
 #       Copyright (c) 2011, Cyber Security Consulting, Ltd. (csc.bg)
