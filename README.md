@@ -17,4 +17,5 @@ Contents:
 ./pentest/smtp.py - checks the validity of an e-mail address<br>
 ./incident_response/malfind_search.py - Searches malc0de and threat expert for hashes of potentially malicious files<br>
 ./incident_response/bigsis.sh - monitors the contents of a directory and sends e-mail notifications. Run from cron.<br>
-./misc/epoch.py - Converts epoch time to date/time
+./misc/epoch.py - Converts epoch time to date/time<br>
+./incident_response/shell_finder.py - Uses clamav and grep to check all accounts on a Cpanel server for malicious files. DB is not included.
