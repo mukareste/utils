@@ -8,7 +8,7 @@ Contents:
 
 ./README.md - This file<br>
 ./pentest/enumerate_wp_users.py - Enumerates WordPress users using the author tag<br>
-./pentest/findvhosts.py - Enumerates virtual hosts on the same IP address<br>
+./pentest/findvhosts.py - Enumerates virtual hosts on the same IP address. More information on http://www.websecuritywatch.com/findvhosts-py-update/<br>
 ./pentest/extract_links.py - Extract the links from a given URL<br>
 ./pentest/ProgressBar.py - A progress bar class<br>
 ./pentest/ipinformation prints network information for the locally assigned IP addresses<br>
