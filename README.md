@@ -9,6 +9,7 @@ Contents:
 * README.md - This file
 * pentest/enumerate_wp_users.py - Enumerates WordPress users using the author tag.
 * pentest/findvhosts.py - Enumerates virtual hosts on the same IP address. More information on [Web Security Watch](http://www.websecuritywatch.com/findvhosts-py-update/).
+* pentest/bingbong.py - Search Bing via their API.
 * pentest/extract_links.py - Extract the links from a given URL.
 * pentest/ProgressBar.py - A progress bar class.
 * pentest/ipinformation prints network information for the locally assigned IP addresses.
